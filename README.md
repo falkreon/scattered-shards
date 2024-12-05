@@ -11,7 +11,8 @@ Requires <a href="https://modrinth.com/mod/connector">Connector</a> and <a href=
 
 **Scattered Shards** adds a system of collectible "shards" that can be created via a UI and placed in-world.
 
-Type `/shards` or use a *Shard Tablet* any time to view which shards you've collected, and which ones are left!
+Type `/shards` or use a *Shard Tablet* any time to view which shards you've collected, and which ones are left! There is also a keybind to open the tablet;
+it is not bound by default, so you may want to create a default setting for your modpack!
 
 **Features:**
 - Shards can have titles, descriptions, and face art in the form of item stacks or arbitrary textures
